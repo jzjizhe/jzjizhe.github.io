@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Windows on 星双</title><link>https://jzjizhe.github.io/windows/</link><description>Recent content in Windows on 星双</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://jzjizhe.github.io/windows/index.xml" rel="self" type="application/rss+xml"/><item><title>C盘下系统文件夹的含义</title><link>https://jzjizhe.github.io/windows/c%E7%9B%98%E4%B8%8B%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E5%A4%B9%E7%9A%84%E5%90%AB%E4%B9%89/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate><guid>https://jzjizhe.github.io/windows/c%E7%9B%98%E4%B8%8B%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E5%A4%B9%E7%9A%84%E5%90%AB%E4%B9%89/</guid><description>&lt;ul>
+&lt;li>&lt;strong>C:\Program Files&lt;/strong>：这是 64 位软件的默认安装目录，所有用户都能使用，程序安装到这里需要管理员权限。&lt;/li>
+&lt;li>&lt;strong>C:\Program Files (x86)&lt;/strong>：用于存放 32 位的软件，同样需要管理员权限才能安装。&lt;/li>
+&lt;li>&lt;strong>C:\Users\ 用户名 \AppData\Roaming&lt;/strong>：通过环境变量 % AppData% 可以访问，用来存放当前登录用户所产生的数据，对其他用户不可见。部分软件可能会将一些用户配置文件、缓存等存储在此处。&lt;/li>
+&lt;li>&lt;strong>C:\Users\ 用户名 \AppData\Local&lt;/strong>：可通过环境变量 % LocalAppData% 访问，该目录主要存放仅限本地使用的数据，一般个人使用的软件可安装在 C:\Users\ 用户名 \AppData\Local\Programs 下面。&lt;/li>
+&lt;li>&lt;strong>C:\ProgramData&lt;/strong>：这里存放的数据是公用的，若希望软件的数据在所有用户之间保持一致，程序生成的数据可存放在此。&lt;/li>
+&lt;li>&lt;strong>C:\WindowsApps&lt;/strong>：这是通过 Windows 应用商店下载安装的应用程序所在目录，是一个隐藏文件夹，且需要相应权限才能访问。&lt;/li>
+&lt;/ul></description></item></channel></rss>
