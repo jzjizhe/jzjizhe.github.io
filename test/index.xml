@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tests on 星双</title><link>https://jzjizhe.github.io/test/</link><description>Recent content in Tests on 星双</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 07 Sep 2025 14:05:33 +0800</lastBuildDate><atom:link href="https://jzjizhe.github.io/test/index.xml" rel="self" type="application/rss+xml"/><item><title>用于debug的测试</title><link>https://jzjizhe.github.io/test/debug/</link><pubDate>Wed, 09 Jul 2025 14:00:00 +0800</pubDate><guid>https://jzjizhe.github.io/test/debug/</guid><description>&lt;p>这是我的第二个blog&lt;br>
+你好&lt;br>
+$a+b=c$&lt;br>
+$$a+b=c$$&lt;br>
+$$&lt;br>
+a+b=c&lt;br>
+$$&lt;br>
+[&lt;br>
+P(x) \sim \mathcal{N}(\mu_1, \sigma_1^2), \quad Q(x) \sim \mathcal{N}(\mu_2, \sigma_2^2)&lt;br>
+]&lt;/p>
+&lt;p>$$P(x) \sim \mathcal{N}(\mu_1, \sigma_1^2), \quad Q(x) \sim \mathcal{N}(\mu_2, \sigma_2^2)$$&lt;br>
+这是第二篇测试文章，用来验证多篇文章的显示效果。&lt;/p></description></item></channel></rss>
