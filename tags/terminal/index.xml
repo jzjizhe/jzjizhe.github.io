@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal on 星双</title><link>https://jzjizhe.github.io/tags/terminal/</link><description>Recent content in Terminal on 星双</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 08 Oct 2025 23:06:57 +0800</lastBuildDate><atom:link href="https://jzjizhe.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml"/><item><title>10 Terminal Tricks</title><link>https://jzjizhe.github.io/tool/10-terminal-tricks/</link><pubDate>Sun, 05 Oct 2025 22:45:01 +0800</pubDate><guid>https://jzjizhe.github.io/tool/10-terminal-tricks/</guid><description>&lt;p>Here’s a cheat sheet of &lt;em>“10 Terminal Tricks Most Developers Don’t Know (But Should)”&lt;/em> by Rishabh Agarwal: &lt;a href="https://levelup.gitconnected.com/10-terminal-tricks-most-developers-dont-know-but-should-c62520940eab?utm_source=chatgpt.com">Level Up Coding&lt;/a>&lt;/p>
+&lt;h2 id="-command-history--navigation">🔍 Command History &amp;amp; Navigation&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Shortcut / Command&lt;/th>
+ &lt;th>Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;code>Ctrl + R&lt;/code>&lt;/td>
+ &lt;td>Reverse-search previously used commands from history.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>!!&lt;/code>&lt;/td>
+ &lt;td>Re-run the last executed command.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>cd -&lt;/code>&lt;/td>
+ &lt;td>Switch back to the previous directory.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="-cursor-movement">🧭 Cursor Movement&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Shortcut&lt;/th>
+ &lt;th>Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;code>Ctrl + A&lt;/code>&lt;/td>
+ &lt;td>Jump to the start of the current command line.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>Ctrl + E&lt;/code>&lt;/td>
+ &lt;td>Jump to the end of the current command line.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>Alt + ← / →&lt;/code>&lt;/td>
+ &lt;td>Move the cursor word-by-word (instead of character-by-character).&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="-editing-commands">✂️ Editing Commands&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Shortcut&lt;/th>
+ &lt;th>Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;code>Ctrl + U&lt;/code>&lt;/td>
+ &lt;td>Delete from cursor to the &lt;strong>start&lt;/strong> of the line.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;code>Ctrl + K&lt;/code>&lt;/td>
+ &lt;td>Delete from cursor to the &lt;strong>end&lt;/strong> of the line.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="-autocomplete--suggestions">⚡ Autocomplete &amp;amp; Suggestions&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Shortcut&lt;/th>
+ &lt;th>Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;code>&amp;lt;Tab&amp;gt;&lt;/code> &lt;code>&amp;lt;Tab&amp;gt;&lt;/code>&lt;/td>
+ &lt;td>Show all possible command or path completions.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="-utility">🧹 Utility&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Shortcut&lt;/th>
+ &lt;th>Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;code>Ctrl + L&lt;/code>&lt;/td>
+ &lt;td>Clear the terminal screen instantly.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>
