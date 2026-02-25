@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Researches on 星双</title><link>https://jzjizhe.github.io/research/</link><description>Recent content in Researches on 星双</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 25 Feb 2026 22:18:31 +0800</lastBuildDate><atom:link href="https://jzjizhe.github.io/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Improving Academic Writing</title><link>https://jzjizhe.github.io/research/improving-academic-writing/</link><pubDate>Fri, 31 Oct 2025 00:00:00 +0800</pubDate><guid>https://jzjizhe.github.io/research/improving-academic-writing/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>heuristic: 用于人工设计的规则，e.g., hand-crafted heuristic rewards&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>图表中数值差异过大怎么呈现？ 用放大镜：&lt;br>
+&lt;img src="https://raw.githubusercontent.com/jzjizhe/blog_images/main/myblogs/writing/table2.png" width = "300" height = "200" alt="图片名称" />&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>需要学习了解的东西</title><link>https://jzjizhe.github.io/research/%E9%9C%80%E8%A6%81%E5%AD%A6%E4%B9%A0%E4%BA%86%E8%A7%A3%E7%9A%84%E4%B8%9C%E8%A5%BF/</link><pubDate>Fri, 31 Oct 2025 00:00:00 +0800</pubDate><guid>https://jzjizhe.github.io/research/%E9%9C%80%E8%A6%81%E5%AD%A6%E4%B9%A0%E4%BA%86%E8%A7%A3%E7%9A%84%E4%B8%9C%E8%A5%BF/</guid><description>&lt;ul>
+&lt;li>KV-cache&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/jzjizhe/blog_images/main/myblogs/20251103165507811.png" alt="image.png">&lt;/p></description></item><item><title>Paper Reading</title><link>https://jzjizhe.github.io/research/paper-reading/</link><pubDate>Wed, 29 Oct 2025 00:00:00 +0800</pubDate><guid>https://jzjizhe.github.io/research/paper-reading/</guid><description>&lt;p>这里记录我读的paper，或是整篇文章，或是文章中最有insight的部分。&lt;/p>
+&lt;h2 id="251010">25.10.10&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/pdf/2508.15868">CARFT: Boosting LLM Reasoning via Contrastive Learning with Annotated Chain-of-Thought-based Reinforced Fine-Tuning&lt;/a>
+&lt;ul>
+&lt;li>用embedding 做contrastive learning，作为ReFT（PPO）的regular loss&lt;/li>
+&lt;li>disadvantage：实验的数据集较为简单&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="rl-wo-verifier">RL w/o verifier&lt;/h2>
+&lt;h3 id="rlpr-extrapolating-rlvr-to-general-domains-without-verifiers-251029">RLPR: Extrapolating RLVR to General Domains without Verifiers 25.10.29&lt;/h3>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/jzjizhe/blog_images/main/myblogs/RLPR_pipeline.png" alt="image.png">&lt;/p></description></item></channel></rss>
