@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tool on 星双</title><link>https://jzjizhe.github.io/tags/tool/</link><description>Recent content in Tool on 星双</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 25 Aug 2025 16:56:52 +0800</lastBuildDate><atom:link href="https://jzjizhe.github.io/tags/tool/index.xml" rel="self" type="application/rss+xml"/><item><title>TMUX常用命令</title><link>https://jzjizhe.github.io/tool/tmux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Mon, 25 Aug 2025 16:56:52 +0800</pubDate><guid>https://jzjizhe.github.io/tool/tmux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;ol>
+&lt;li>面板分割
+&lt;ul>
+&lt;li>&lt;strong>垂直分割窗口&lt;/strong>（左右分屏）：&lt;br>
+按 &lt;code>Ctrl+b&lt;/code> 后松开，再按 &lt;code>%&lt;/code>（百分号）&lt;/li>
+&lt;li>&lt;strong>水平分割窗口&lt;/strong>（上下分屏）：&lt;br>
+按 &lt;code>Ctrl+b&lt;/code> 后松开，再按 &lt;code>&amp;quot;&lt;/code>（双引号）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol></description></item></channel></rss>
