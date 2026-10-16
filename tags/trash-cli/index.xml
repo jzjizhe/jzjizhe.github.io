@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trash-Cli on 星双</title><link>https://jzjizhe.github.io/tags/trash-cli/</link><description>Recent content in Trash-Cli on 星双</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0800</lastBuildDate><atom:link href="https://jzjizhe.github.io/tags/trash-cli/index.xml" rel="self" type="application/rss+xml"/><item><title>Trash-cli — The Recycle Bin on Linux</title><link>https://jzjizhe.github.io/tool/trash-cli--the-recycle-bin-on-linux/</link><pubDate>Thu, 23 Oct 2025 00:00:00 +0800</pubDate><guid>https://jzjizhe.github.io/tool/trash-cli--the-recycle-bin-on-linux/</guid><description>&lt;h2 id="-overview">📘 Overview&lt;/h2>
+&lt;p>On Linux, the command-line tool &lt;a href="https://github.com/andreafrancia/trash-cli">&lt;code>trash-cli&lt;/code>&lt;/a> provides a &lt;strong>safe alternative to &lt;code>rm&lt;/code>&lt;/strong>, allowing you to move files to the &lt;strong>Trash&lt;/strong> instead of permanently deleting them.&lt;br>
+It fully complies with the &lt;a href="https://specifications.freedesktop.org/trash-spec/latest/">FreeDesktop Trash Specification&lt;/a>, which is used by desktop environments such as GNOME and KDE.&lt;/p>
+&lt;hr>
+&lt;h2 id="-installation">🧰 Installation&lt;/h2>
+&lt;p>You can install &lt;code>trash-cli&lt;/code> using your package manager or Python’s pip:&lt;/p>
+&lt;div class="highlight">&lt;div style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo apt install trash-cli
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#57606a"># or&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>pip install trash-cli
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;hr>
+&lt;h2 id="-disable-rm-for-safety">🚫 Disable &lt;code>rm&lt;/code> (for safety)&lt;/h2>
+&lt;p>To avoid accidental permanent deletions, you can &lt;strong>override&lt;/strong> the &lt;code>rm&lt;/code> command and display a friendly warning instead.&lt;/p></description></item></channel></rss>
